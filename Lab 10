@@ -10,6 +10,10 @@ public:
 	BTS_Node* lchild;
 
 };
+
+
+
+
 template <typename T>
 class BinaryTree {
 public:
