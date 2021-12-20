@@ -1,0 +1,24 @@
+
+#include <iostream>
+using namespace std;
+
+
+class BTS_Node {
+public:
+	int data;
+	BTS_Node* rchild;
+	BTS_Node* lchild;
+
+};
+template <typename T>
+class BinaryTree {
+public:
+	BTS_Node* loc;
+	BTS_Node* ploc;
+
+
+};
+int main()
+{
+
+}
